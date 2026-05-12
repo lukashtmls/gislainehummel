@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    display: flex;
+    background-color: rgb(15, 43, 15);
+    text-align: center;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 0px -10px 40px rgba(0, 0, 0, 0.440);
+}
+
+header img{
+    width: 200px;
+    align-self: bottom;
+}
+
+header h1 {
+    font-size: 60px;
+    font-family: 'Dancing Script';
+}
+
+header h2 {
+    font-size: 40px;
+    font-family: Rubik;
+    font-weight: 400;
+}
+
+header div.texto_gislaine {
+    color :white;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.199);
+    border-radius: 20px;
+    padding: 10px
+}
