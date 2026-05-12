@@ -34,7 +34,7 @@ header h2 {
 }
 
 header div.texto_gislaine {
-    color :white;
+    color :rgb(220, 190, 40);
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.199);
     border-radius: 20px;
